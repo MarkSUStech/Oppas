@@ -1,0 +1,16 @@
+-r
+C:\Users\mark0\Oppas\Sandbox\Intel® VTune™ Profiler Results\Sandbox\r000ps
+--stack-stitching
+--data-limit-mb=1000
+--disk-space-limit=0
+--mrte-type=java,dotnet
+--stack-unwind-limit=8388608
+--itt-config=frame
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:nostack
+--interval=100
+--platform-type=169
+--app-working-dir=C:\Users\mark0\Oppas\Sandbox\
+--
+C:\Users\mark0\Oppas\bin\Debug-x64\Sandbox\Sandbox.exe
